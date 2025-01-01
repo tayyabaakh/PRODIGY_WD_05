@@ -2,7 +2,7 @@
 
 This app isn't just about checking the weather; it's designed to **enhance the user experience** with features that make planning your day seamless. Built with JavaScript, it focuses on interactivity, accuracy, and user-friendliness. 🚀
 
----
+
 
 ## 🌟 Features
 
